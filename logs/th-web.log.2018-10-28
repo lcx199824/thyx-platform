@@ -1,0 +1,4 @@
+2018-10-28 19:59:52,603 INFO 4140 [egg-logview] mount log C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\logs at http://127.0.0.1:7001/__logs
+2018-10-28 19:59:59,318 INFO 19264 [egg-logview] mount log C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\logs at http://127.0.0.1:7001/__logs
+2018-10-28 20:00:08,060 INFO 16944 [egg-logview] mount log C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\logs at http://127.0.0.1:7001/__logs
+2018-10-28 20:00:27,395 INFO 16944 [-/127.0.0.1/-/4658ms GET /] [access] 127.0.0.1: - GET / HTTP/200 126857 - 4640 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36

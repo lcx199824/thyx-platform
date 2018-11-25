@@ -1,0 +1,26 @@
+2018-10-23 09:35:05,835 INFO 16576 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 09:35:05,836 INFO 16576 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-23 10:19:28,060 INFO 15136 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 10:19:28,060 INFO 15136 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-23 10:24:07,315 INFO 17216 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 10:24:07,317 INFO 17216 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-23 10:46:15,856 INFO 7020 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 10:46:15,859 INFO 7020 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-23 11:02:43,071 INFO 16800 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 11:02:43,075 INFO 16800 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-23 11:04:29,492 INFO 15760 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 11:04:29,496 INFO 15760 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-23 13:53:53,583 INFO 17676 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 13:53:53,584 INFO 17676 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-23 14:02:30,749 INFO 6796 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-24 00:00:00.000
+2018-10-23 14:02:30,750 INFO 6796 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-24 00:00:01.000
+2018-10-24 00:51:01,096 INFO 18004 [1540313461050351782888889975] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js task received by app
+2018-10-24 00:51:01,101 INFO 18004 [1540313461050351782888889975] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js executing by app
+2018-10-24 00:51:01,108 INFO 18004 [1540313461078351782917232426] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js task received by app
+2018-10-24 00:51:01,108 INFO 18004 [1540313461078351782917232426] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2018-10-24 00:51:01,158 INFO 18004 [1540313461050351782888889975] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js execute succeed, used 54ms
+2018-10-24 00:51:01,175 INFO 18004 [1540313461078351782917232426] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 67ms
+2018-10-24 00:51:01,051 INFO 6796 [1540313461050351782888889975] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js triggered, send random by agent
+2018-10-24 00:51:01,078 INFO 6796 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-25 00:00:00.000
+2018-10-24 00:51:01,079 INFO 6796 [1540313461078351782917232426] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js triggered, send random by agent
+2018-10-24 00:51:01,092 INFO 6796 [Timer] C:\Users\evey0\Desktop\th\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-25 00:00:01.000

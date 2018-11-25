@@ -1,0 +1,356 @@
+{
+  "security": {
+    "csrf": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+      "useSession": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "headerName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "queryName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.local.js",
+    "protocolWhiteList": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "policy": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+    "allowMethods": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js"
+  },
+  "view": {
+    "cache": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.local.js",
+    "root": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "defaultExtension": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+    "renderOptions": {
+      "basedir": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+      "runInNewContext": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "doctype": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "manifest": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectHeadRegex": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectBodyRegex": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectCss": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.local.js",
+    "injectJs": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "injectRes": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "crossorigin": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "mergeLocals": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "fallbackToClient": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+    "cache": {
+      "max": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js",
+      "maxAge": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "afterRender": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-view-vue-ssr@3.1.3@egg-view-vue-ssr\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+    "dir": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+    "encoding": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "env": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "level": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "outputJSON": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "buffer": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "appLogName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "coreLogName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "agentLogName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "errorLogName": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+    "dir": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+    "maxAge": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.local.js",
+    "dynamic": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "preload": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "buffer": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js"
+  },
+  "keys": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+  "middleware": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+  "bodyParser": {
+    "ignore": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.default.js",
+    "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "encoding": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "formLimit": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "strict": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "depth": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.local.js",
+    "ignoreDirs": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.local.js",
+    "fastReady": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js"
+  },
+  "logview": {
+    "dir": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\config\\config.local.js",
+    "prefix": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js",
+    "staticHost": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-security@2.4.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-schedule@3.4.0@egg-schedule\\config\\config.default.js",
+      "file": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-schedule@3.4.0@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "files": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-multipart@2.2.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js"
+  },
+  "webpack": {
+    "port": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js",
+    "proxy": {
+      "host": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js",
+      "match": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js"
+    },
+    "webpackConfigList": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg-webpack@4.4.8@egg-webpack\\config\\config.default.js"
+  },
+  "env": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "name": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "proxy": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "version": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "description": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "scripts": {
+      "debug": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "clean": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "build": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "start": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "stop": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "dev": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "lint": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "fix": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "ii": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "cross-env": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-bin": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-cors": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-logger": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-validate": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-view-vue-ssr": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "element-ui": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "extend": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "form-data": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "http-proxy-middleware": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "iview": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "js-cookie": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "koa-connect": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "lodash": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "moment": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vue": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vue-hot-reload-api": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vue-router": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vuex": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vuex-router-sync": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "easywebpack-cli": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "easywebpack-vue": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-logview": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-webpack": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "egg-webpack-vue": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "eslint": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "eslint-plugin-vue": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "http-proxy": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "imagemin-webpack-plugin": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "ip": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "less": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "less-loader": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "node-sass": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "sass-loader": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "vconsole": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "url": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "author": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "license": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "homepage": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "webpack": {
+      "loaders": {
+        "less": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+      }
+    }
+  },
+  "baseDir": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "HOME": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "rundir": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "notFound": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "sitefile": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "middlewares": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "httpClient": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "logging": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "port": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+      "hostname": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\node_modules\\_egg@2.12.0@egg\\config\\config.default.js"
+}

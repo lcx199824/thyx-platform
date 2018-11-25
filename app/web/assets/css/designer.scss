@@ -1,0 +1,284 @@
+#design {
+    display: flex;
+    justify-content: center;
+    .container {
+      width: 1200px;
+    }
+    .filter-bar {
+      height: 50px;
+      z-index: 199;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      background-color: #646464;
+      .filter {
+        width: 900px;
+        display: flex;
+        align-items: center;
+        div {
+          height: 28px;
+          line-height: 28px;
+          text-align: center;
+        }
+        .shift {
+          width: 10%;
+          min-width: 75px;
+          color: #d8d8d8;
+          font-size: 14px;
+        }
+        .and {
+          width: 3%;
+          min-width: 30px;
+        }
+        .select {
+          width: 10%;
+          min-width: 75px;
+          select {
+            height: 100%;
+            width: 100%;
+            min-width: 75px;
+            padding-left: 5px;
+          }
+        }
+        .hot {
+          margin-left: 10px;
+        }
+        .all-designers {
+          width: 21%;
+          min-width: 157px;
+          color: #d8d8d8;
+          font-size: 14px;
+          span {
+            color: #ff0014;
+          }
+        }
+      }
+      .search {
+        width: 300px;
+        display: flex;
+        align-items: center;
+        //   border: 1px solid black;
+        input {
+          height: 28;
+          line-height: 28px;
+          width: 70%;
+          min-width: 175px;
+          padding-left: 5px;
+        }
+        .search-btn {
+          height: 34px;
+          line-height: 34px;
+          width: 26%;
+          font-size: 14px;
+          min-width: 65px;
+          margin-right: 10px;
+          text-align: center;
+          background-color: #e60012;
+          &:hover{
+            cursor: pointer;
+          }
+        }
+      }
+    }
+    .designer-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: start;
+      // align-items: center;
+      margin-top: 20px;
+      .designer-wrapper{
+        width: 25%;
+      }
+      .designer {
+        //   border: 1px solid black;
+        width: 280px;
+        height: 390px;
+        margin: 10px;
+        .photo {
+          height: 290px;
+          background-size: cover;
+          background-repeat: no-repeat;
+          position: relative;
+          &:hover .contact {
+            display: block;
+          }
+          .contact {
+            display: none;
+            height: 47px;
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            div {
+              height: 100%;
+              width: 50%;
+              min-width: 117.5px;
+              line-height: 47px;
+              text-align: center;
+            }
+            .free-consult {
+              display: inline-block;
+              color: #fff;
+              background: rgba(230, 46, 60, 0.9);
+            }
+            .free-plan {
+              position: absolute;
+              right: 0;
+              display: inline-block;
+              color: #333;
+              background: rgba(255, 255, 255, 0.8);
+            }
+          }
+        }
+        .desc {
+          height: 100px;
+          border: 1px solid #e6e6e6;
+          font-size: 14px;
+          color: #808080;
+          padding: 0 10px;
+          display: flex;
+          align-items: center;
+          .content {
+            width: 100%;
+            min-width: 215px;
+            .top-desc {
+              text-align: center;
+              padding-bottom: 5px;
+              border-bottom: 1px solid #e6e6e6;
+              .name {
+                font-size: 20px;
+                color: #333;
+              }
+            }
+            .bottom-desc {
+              margin: 10px 0;
+              .exp {
+                display: flex;
+                justify-content: space-between;
+                .works,
+                .year {
+                  color: #e60012;
+                }
+              }
+              .dept {
+                padding-top: 5px;
+              }
+            }
+          }
+        }
+      }
+    }
+    .page{
+      display: flex;
+      justify-content: center;
+      margin: 20px 0;
+    }
+  }
+
+@media only screen and (max-width: 600px) {
+  #design {
+    display: flex;
+    justify-content: center;
+    .container {
+      width: 100%;
+    }
+    .filter-bar{
+      display: none;
+    }
+    .designer-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-top: 20px;
+      .designer-wrapper{
+        width: 48%;
+        // margin-right: 20px;
+      }
+      .designer {
+        //   border: 1px solid black;
+        width: 100%;
+        height: auto;
+        margin: 0px;
+        .photo {
+          height: 185px;
+          background-size: cover;
+          background-repeat: no-repeat;
+          position: relative;
+          &:hover .contact {
+            display: block;
+          }
+          .contact {
+            display: none;
+            height: 47px;
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            div {
+              height: 100%;
+              width: 50%;
+              min-width: 117.5px;
+              line-height: 47px;
+              text-align: center;
+            }
+            .free-consult {
+              display: inline-block;
+              color: #fff;
+              background: rgba(230, 46, 60, 0.9);
+            }
+            .free-plan {
+              position: absolute;
+              right: 0;
+              display: inline-block;
+              color: #333;
+              background: rgba(255, 255, 255, 0.8);
+            }
+          }
+        }
+        .desc {
+          height: 100px;
+          border: 1px solid #e6e6e6;
+          font-size: 14px;
+          color: #808080;
+          padding: 0 5px;
+          display: flex;
+          align-items: center;
+          .content {
+            width: 100%;
+            min-width: 170px;
+            .top-desc {
+              text-align: center;
+              margin-top: 5px;
+              padding-bottom: 0px;
+              border-bottom: 1px solid #e6e6e6;
+              .name {
+                font-size: 18px;
+                color: #333;
+              }
+            }
+            .bottom-desc {
+              font-size: 13px;
+              margin: 10px 0;
+              .exp {
+                display: flex;
+                justify-content: space-between;
+                .works,
+                .year {
+                  color: #e60012;
+                }
+              }
+              .dept {
+                padding-top: 5px;
+              }
+            }
+          }
+        }
+      }
+    }
+    .page{
+      display: flex;
+      justify-content: center;
+      margin: 20px 0;
+    }
+  }
+}

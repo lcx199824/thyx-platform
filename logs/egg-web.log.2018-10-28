@@ -1,0 +1,67 @@
+2018-10-28 01:12:00,521 INFO 15088 [egg-logrotator] app logger reload: got log-reload message
+2018-10-28 01:12:00,527 INFO 15060 [egg-logrotator] app logger reload: got log-reload message
+2018-10-28 01:12:00,546 INFO 18796 [egg-logrotator] app logger reload: got log-reload message
+2018-10-28 01:12:00,517 INFO 17824 [egg-logrotator] app logger reload: got log-reload message
+2018-10-28 09:31:50,583 WARN 17824 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-10-28 09:31:50,583 WARN 17824 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-10-28 09:31:50,583 WARN 15088 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-10-28 09:31:50,589 WARN 15060 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-10-28 09:31:50,589 WARN 15060 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-10-28 09:31:50,590 WARN 18796 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-10-28 09:31:50,590 WARN 18796 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-10-28 19:59:52,260 INFO 4140 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-10-28 19:59:52,320 INFO 4140 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-10-28 19:59:52,320 INFO 4140 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-10-28 19:59:52,321 INFO 4140 [egg-multipart] stream mode enable
+2018-10-28 19:59:52,580 INFO 4140 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-10-28 19:59:52,581 INFO 4140 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-10-28 19:59:52,589 INFO 4140 [egg-security] use methodnoallow middleware
+2018-10-28 19:59:52,591 INFO 4140 [egg-security] use noopen middleware
+2018-10-28 19:59:52,596 INFO 4140 [egg-security] use nosniff middleware
+2018-10-28 19:59:52,597 INFO 4140 [egg-security] use xssProtection middleware
+2018-10-28 19:59:52,599 INFO 4140 [egg-security] use xframe middleware
+2018-10-28 19:59:52,601 INFO 4140 [egg-security] use dta middleware
+2018-10-28 19:59:52,601 INFO 4140 [egg-security] compose 6 middlewares into one security middleware
+2018-10-28 19:59:52,776 INFO 4140 [egg:core] dump config after load, 12ms
+2018-10-28 19:59:52,799 INFO 4140 [egg-watcher:application] watcher start success
+2018-10-28 19:59:52,821 INFO 4140 [egg:core] dump config after ready, 17ms
+2018-10-28 19:59:58,868 INFO 19264 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-10-28 19:59:58,944 INFO 19264 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-10-28 19:59:58,944 INFO 19264 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-10-28 19:59:58,945 INFO 19264 [egg-multipart] stream mode enable
+2018-10-28 19:59:59,285 INFO 19264 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-10-28 19:59:59,287 INFO 19264 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-10-28 19:59:59,298 INFO 19264 [egg-security] use methodnoallow middleware
+2018-10-28 19:59:59,300 INFO 19264 [egg-security] use noopen middleware
+2018-10-28 19:59:59,310 INFO 19264 [egg-security] use nosniff middleware
+2018-10-28 19:59:59,311 INFO 19264 [egg-security] use xssProtection middleware
+2018-10-28 19:59:59,314 INFO 19264 [egg-security] use xframe middleware
+2018-10-28 19:59:59,316 INFO 19264 [egg-security] use dta middleware
+2018-10-28 19:59:59,316 INFO 19264 [egg-security] compose 6 middlewares into one security middleware
+2018-10-28 19:59:59,562 INFO 19264 [egg:core] dump config after load, 48ms
+2018-10-28 19:59:59,605 INFO 19264 [egg-watcher:application] watcher start success
+2018-10-28 19:59:59,659 INFO 19264 [egg:core] dump config after ready, 48ms
+2018-10-28 20:00:07,442 INFO 16944 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-10-28 20:00:07,578 INFO 16944 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-10-28 20:00:07,578 INFO 16944 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-10-28 20:00:07,579 INFO 16944 [egg-multipart] stream mode enable
+2018-10-28 20:00:08,034 INFO 16944 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-10-28 20:00:08,036 INFO 16944 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-10-28 20:00:08,045 INFO 16944 [egg-security] use methodnoallow middleware
+2018-10-28 20:00:08,047 INFO 16944 [egg-security] use noopen middleware
+2018-10-28 20:00:08,052 INFO 16944 [egg-security] use nosniff middleware
+2018-10-28 20:00:08,054 INFO 16944 [egg-security] use xssProtection middleware
+2018-10-28 20:00:08,056 INFO 16944 [egg-security] use xframe middleware
+2018-10-28 20:00:08,058 INFO 16944 [egg-security] use dta middleware
+2018-10-28 20:00:08,058 INFO 16944 [egg-security] compose 6 middlewares into one security middleware
+2018-10-28 20:00:08,253 INFO 16944 [egg:core] dump config after load, 18ms
+2018-10-28 20:00:08,279 INFO 16944 [egg-watcher:application] watcher start success
+2018-10-28 20:00:08,323 INFO 16944 [egg:core] dump config after ready, 38ms
+2018-10-28 21:38:57,082 WARN 16944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-10-28 21:38:57,085 WARN 16944 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-10-29 01:09:23,978 WARN 16944 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-10-29 01:09:24,009 INFO 16944 [egg-logrotator] clean all log before 31 days
+2018-10-29 01:09:24,010 INFO 16944 [-/127.0.0.1/-/25ms SCHEDULE /__schedule?path=C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js execute succeed, used 24ms
+2018-10-29 01:09:26,008 INFO 16944 [egg-logrotator] broadcast log-reload
+2018-10-29 01:09:26,013 INFO 16944 [egg-logrotator] rotate files success by DayRotator, files ["C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\common-error.log -> C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\common-error.log.2018-10-28","C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\th-web.log -> C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\th-web.log.2018-10-28","C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\egg-web.log -> C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\egg-web.log.2018-10-28","C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\th\\egg-schedule.log -> C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\th\\egg-schedule.log.2018-10-28","C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\egg-agent.log -> C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs\\egg-agent.log.2018-10-28"]
+2018-10-29 01:09:26,013 INFO 16944 [-/127.0.0.1/-/2011ms SCHEDULE /__schedule?path=C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 2011ms

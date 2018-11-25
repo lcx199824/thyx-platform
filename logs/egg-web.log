@@ -1,0 +1,196 @@
+2018-10-29 01:09:26,038 INFO 16944 [egg-logrotator] app logger reload: got log-reload message
+2018-10-29 08:54:19,042 WARN 16944 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-06 19:56:24,490 INFO 10448 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 19:56:24,548 INFO 10448 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-06 19:56:24,548 INFO 10448 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-06 19:56:24,549 INFO 10448 [egg-multipart] stream mode enable
+2018-11-06 19:56:24,817 INFO 10448 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-06 19:56:24,818 INFO 10448 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-06 19:56:24,831 INFO 10448 [egg-security] use methodnoallow middleware
+2018-11-06 19:56:24,833 INFO 10448 [egg-security] use noopen middleware
+2018-11-06 19:56:24,839 INFO 10448 [egg-security] use nosniff middleware
+2018-11-06 19:56:24,842 INFO 10448 [egg-security] use xssProtection middleware
+2018-11-06 19:56:24,844 INFO 10448 [egg-security] use xframe middleware
+2018-11-06 19:56:24,846 INFO 10448 [egg-security] use dta middleware
+2018-11-06 19:56:24,846 INFO 10448 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 19:56:25,026 INFO 10448 [egg:core] dump config after load, 27ms
+2018-11-06 19:56:25,054 INFO 10448 [egg-watcher:application] watcher start success
+2018-11-06 19:56:25,090 INFO 10448 [egg:core] dump config after ready, 28ms
+2018-11-06 19:56:30,706 INFO 12308 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 19:56:30,802 INFO 12308 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-06 19:56:30,803 INFO 12308 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-06 19:56:30,804 INFO 12308 [egg-multipart] stream mode enable
+2018-11-06 19:56:31,081 INFO 12308 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-06 19:56:31,083 INFO 12308 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-06 19:56:31,093 INFO 12308 [egg-security] use methodnoallow middleware
+2018-11-06 19:56:31,095 INFO 12308 [egg-security] use noopen middleware
+2018-11-06 19:56:31,100 INFO 12308 [egg-security] use nosniff middleware
+2018-11-06 19:56:31,102 INFO 12308 [egg-security] use xssProtection middleware
+2018-11-06 19:56:31,103 INFO 12308 [egg-security] use xframe middleware
+2018-11-06 19:56:31,105 INFO 12308 [egg-security] use dta middleware
+2018-11-06 19:56:31,105 INFO 12308 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 19:56:31,279 INFO 12308 [egg:core] dump config after load, 22ms
+2018-11-06 19:56:31,307 INFO 12308 [egg-watcher:application] watcher start success
+2018-11-06 19:56:31,329 INFO 12308 [egg:core] dump config after ready, 17ms
+2018-11-06 19:56:37,625 INFO 4268 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 19:56:37,731 INFO 4268 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-06 19:56:37,731 INFO 4268 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-06 19:56:37,732 INFO 4268 [egg-multipart] stream mode enable
+2018-11-06 19:56:38,090 INFO 4268 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-06 19:56:38,091 INFO 4268 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-06 19:56:38,104 INFO 4268 [egg-security] use methodnoallow middleware
+2018-11-06 19:56:38,106 INFO 4268 [egg-security] use noopen middleware
+2018-11-06 19:56:38,110 INFO 4268 [egg-security] use nosniff middleware
+2018-11-06 19:56:38,115 INFO 4268 [egg-security] use xssProtection middleware
+2018-11-06 19:56:38,117 INFO 4268 [egg-security] use xframe middleware
+2018-11-06 19:56:38,119 INFO 4268 [egg-security] use dta middleware
+2018-11-06 19:56:38,119 INFO 4268 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 19:56:38,301 INFO 4268 [egg:core] dump config after load, 17ms
+2018-11-06 19:56:38,319 INFO 4268 [egg-watcher:application] watcher start success
+2018-11-06 19:56:38,343 INFO 4268 [egg:core] dump config after ready, 19ms
+2018-11-06 20:04:30,431 INFO 6356 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 20:04:30,513 INFO 6356 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-06 20:04:30,513 INFO 6356 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-06 20:04:30,514 INFO 6356 [egg-multipart] stream mode enable
+2018-11-06 20:04:30,804 INFO 6356 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-06 20:04:30,805 INFO 6356 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-06 20:04:30,813 INFO 6356 [egg-security] use methodnoallow middleware
+2018-11-06 20:04:30,815 INFO 6356 [egg-security] use noopen middleware
+2018-11-06 20:04:30,819 INFO 6356 [egg-security] use nosniff middleware
+2018-11-06 20:04:30,821 INFO 6356 [egg-security] use xssProtection middleware
+2018-11-06 20:04:30,823 INFO 6356 [egg-security] use xframe middleware
+2018-11-06 20:04:30,824 INFO 6356 [egg-security] use dta middleware
+2018-11-06 20:04:30,824 INFO 6356 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 20:04:30,975 INFO 6356 [egg:core] dump config after load, 12ms
+2018-11-06 20:04:31,003 INFO 6356 [egg-watcher:application] watcher start success
+2018-11-06 20:04:31,025 INFO 6356 [egg:core] dump config after ready, 17ms
+2018-11-06 21:20:01,201 INFO 2444 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 21:20:01,269 INFO 2444 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-06 21:20:01,269 INFO 2444 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-06 21:20:01,269 INFO 2444 [egg-multipart] stream mode enable
+2018-11-06 21:20:01,566 INFO 2444 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-06 21:20:01,567 INFO 2444 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-06 21:20:01,574 INFO 2444 [egg-security] use methodnoallow middleware
+2018-11-06 21:20:01,577 INFO 2444 [egg-security] use noopen middleware
+2018-11-06 21:20:01,582 INFO 2444 [egg-security] use nosniff middleware
+2018-11-06 21:20:01,583 INFO 2444 [egg-security] use xssProtection middleware
+2018-11-06 21:20:01,585 INFO 2444 [egg-security] use xframe middleware
+2018-11-06 21:20:01,587 INFO 2444 [egg-security] use dta middleware
+2018-11-06 21:20:01,587 INFO 2444 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 21:20:01,705 INFO 2444 [egg:core] dump config after load, 15ms
+2018-11-06 21:20:01,723 INFO 2444 [egg-watcher:application] watcher start success
+2018-11-06 21:20:01,753 INFO 2444 [egg:core] dump config after ready, 26ms
+2018-11-07 10:49:17,664 INFO 12564 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-07 10:49:17,729 INFO 12564 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-07 10:49:17,730 INFO 12564 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-07 10:49:17,730 INFO 12564 [egg-multipart] stream mode enable
+2018-11-07 10:49:17,954 INFO 12564 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-07 10:49:17,954 INFO 12564 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-07 10:49:17,969 INFO 12564 [egg-security] use methodnoallow middleware
+2018-11-07 10:49:17,974 INFO 12564 [egg-security] use noopen middleware
+2018-11-07 10:49:17,982 INFO 12564 [egg-security] use nosniff middleware
+2018-11-07 10:49:17,984 INFO 12564 [egg-security] use xssProtection middleware
+2018-11-07 10:49:17,986 INFO 12564 [egg-security] use xframe middleware
+2018-11-07 10:49:17,988 INFO 12564 [egg-security] use dta middleware
+2018-11-07 10:49:17,988 INFO 12564 [egg-security] compose 6 middlewares into one security middleware
+2018-11-07 10:49:18,146 INFO 12564 [egg:core] dump config after load, 13ms
+2018-11-07 10:49:18,191 INFO 12564 [egg-watcher:application] watcher start success
+2018-11-07 10:49:18,211 INFO 12564 [egg:core] dump config after ready, 14ms
+2018-11-07 10:49:23,792 INFO 13236 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-07 10:49:23,883 INFO 13236 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-07 10:49:23,883 INFO 13236 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-07 10:49:23,884 INFO 13236 [egg-multipart] stream mode enable
+2018-11-07 10:49:24,163 INFO 13236 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-07 10:49:24,164 INFO 13236 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-07 10:49:24,176 INFO 13236 [egg-security] use methodnoallow middleware
+2018-11-07 10:49:24,177 INFO 13236 [egg-security] use noopen middleware
+2018-11-07 10:49:24,182 INFO 13236 [egg-security] use nosniff middleware
+2018-11-07 10:49:24,184 INFO 13236 [egg-security] use xssProtection middleware
+2018-11-07 10:49:24,185 INFO 13236 [egg-security] use xframe middleware
+2018-11-07 10:49:24,187 INFO 13236 [egg-security] use dta middleware
+2018-11-07 10:49:24,187 INFO 13236 [egg-security] compose 6 middlewares into one security middleware
+2018-11-07 10:49:24,361 INFO 13236 [egg:core] dump config after load, 24ms
+2018-11-07 10:49:24,402 INFO 13236 [egg-watcher:application] watcher start success
+2018-11-07 10:49:24,427 INFO 13236 [egg:core] dump config after ready, 20ms
+2018-11-07 10:49:32,318 INFO 12924 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-07 10:49:32,754 INFO 12924 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-07 10:49:32,754 INFO 12924 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-07 10:49:32,757 INFO 12924 [egg-multipart] stream mode enable
+2018-11-07 10:49:33,342 INFO 12924 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-07 10:49:33,348 INFO 12924 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-07 10:49:33,360 INFO 12924 [egg-security] use methodnoallow middleware
+2018-11-07 10:49:33,367 INFO 12924 [egg-security] use noopen middleware
+2018-11-07 10:49:33,372 INFO 12924 [egg-security] use nosniff middleware
+2018-11-07 10:49:33,373 INFO 12924 [egg-security] use xssProtection middleware
+2018-11-07 10:49:33,377 INFO 12924 [egg-security] use xframe middleware
+2018-11-07 10:49:33,381 INFO 12924 [egg-security] use dta middleware
+2018-11-07 10:49:33,381 INFO 12924 [egg-security] compose 6 middlewares into one security middleware
+2018-11-07 10:49:33,665 INFO 12924 [egg:core] dump config after load, 18ms
+2018-11-07 10:49:33,700 INFO 12924 [egg-watcher:application] watcher start success
+2018-11-07 10:49:33,738 INFO 12924 [egg:core] dump config after ready, 32ms
+2018-11-07 11:10:41,099 INFO 4128 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-07 11:10:41,158 INFO 4128 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-07 11:10:41,158 INFO 4128 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-07 11:10:41,159 INFO 4128 [egg-multipart] stream mode enable
+2018-11-07 11:10:41,343 INFO 4128 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-07 11:10:41,344 INFO 4128 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-07 11:10:41,350 INFO 4128 [egg-security] use methodnoallow middleware
+2018-11-07 11:10:41,351 INFO 4128 [egg-security] use noopen middleware
+2018-11-07 11:10:41,355 INFO 4128 [egg-security] use nosniff middleware
+2018-11-07 11:10:41,356 INFO 4128 [egg-security] use xssProtection middleware
+2018-11-07 11:10:41,357 INFO 4128 [egg-security] use xframe middleware
+2018-11-07 11:10:41,358 INFO 4128 [egg-security] use dta middleware
+2018-11-07 11:10:41,358 INFO 4128 [egg-security] compose 6 middlewares into one security middleware
+2018-11-07 11:10:41,453 INFO 4128 [egg:core] dump config after load, 9ms
+2018-11-07 11:10:41,471 INFO 4128 [egg-watcher:application] watcher start success
+2018-11-07 11:10:41,485 INFO 4128 [egg:core] dump config after ready, 11ms
+2018-11-20 14:45:24,467 INFO 1116 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-20 14:45:24,551 INFO 1116 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-20 14:45:24,551 INFO 1116 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-20 14:45:24,552 INFO 1116 [egg-multipart] stream mode enable
+2018-11-20 14:45:24,855 INFO 1116 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-20 14:45:24,857 INFO 1116 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-20 14:45:24,866 INFO 1116 [egg-security] use methodnoallow middleware
+2018-11-20 14:45:24,868 INFO 1116 [egg-security] use noopen middleware
+2018-11-20 14:45:24,871 INFO 1116 [egg-security] use nosniff middleware
+2018-11-20 14:45:24,873 INFO 1116 [egg-security] use xssProtection middleware
+2018-11-20 14:45:24,875 INFO 1116 [egg-security] use xframe middleware
+2018-11-20 14:45:24,876 INFO 1116 [egg-security] use dta middleware
+2018-11-20 14:45:24,876 INFO 1116 [egg-security] compose 6 middlewares into one security middleware
+2018-11-20 14:45:25,005 INFO 1116 [egg:core] dump config after load, 10ms
+2018-11-20 14:45:25,023 INFO 1116 [egg-watcher:application] watcher start success
+2018-11-20 14:45:25,043 INFO 1116 [egg:core] dump config after ready, 16ms
+2018-11-20 14:45:31,013 INFO 8480 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-20 14:45:31,132 INFO 8480 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-20 14:45:31,132 INFO 8480 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-20 14:45:31,134 INFO 8480 [egg-multipart] stream mode enable
+2018-11-20 14:45:31,438 INFO 8480 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-20 14:45:31,439 INFO 8480 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-20 14:45:31,449 INFO 8480 [egg-security] use methodnoallow middleware
+2018-11-20 14:45:31,450 INFO 8480 [egg-security] use noopen middleware
+2018-11-20 14:45:31,454 INFO 8480 [egg-security] use nosniff middleware
+2018-11-20 14:45:31,456 INFO 8480 [egg-security] use xssProtection middleware
+2018-11-20 14:45:31,458 INFO 8480 [egg-security] use xframe middleware
+2018-11-20 14:45:31,460 INFO 8480 [egg-security] use dta middleware
+2018-11-20 14:45:31,460 INFO 8480 [egg-security] compose 6 middlewares into one security middleware
+2018-11-20 14:45:31,613 INFO 8480 [egg:core] dump config after load, 14ms
+2018-11-20 14:45:31,634 INFO 8480 [egg-watcher:application] watcher start success
+2018-11-20 14:45:31,656 INFO 8480 [egg:core] dump config after ready, 16ms
+2018-11-20 14:45:38,246 INFO 9372 [egg:logger] init all loggers with options: {"dir":"C:\\Workspace\\CodeProject\\SkywenThyyWebTest\\thyxfrontend\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"th-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-20 14:45:38,353 INFO 9372 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-20 14:45:38,353 INFO 9372 [egg-schedule]: register schedule C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-20 14:45:38,354 INFO 9372 [egg-multipart] stream mode enable
+2018-11-20 14:45:38,747 INFO 9372 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\public
+2018-11-20 14:45:38,748 INFO 9372 [egg-static] starting static serve /public/ -> C:\Workspace\CodeProject\SkywenThyyWebTest\thyxfrontend\statics
+2018-11-20 14:45:38,760 INFO 9372 [egg-security] use methodnoallow middleware
+2018-11-20 14:45:38,763 INFO 9372 [egg-security] use noopen middleware
+2018-11-20 14:45:38,768 INFO 9372 [egg-security] use nosniff middleware
+2018-11-20 14:45:38,770 INFO 9372 [egg-security] use xssProtection middleware
+2018-11-20 14:45:38,772 INFO 9372 [egg-security] use xframe middleware
+2018-11-20 14:45:38,774 INFO 9372 [egg-security] use dta middleware
+2018-11-20 14:45:38,775 INFO 9372 [egg-security] compose 6 middlewares into one security middleware
+2018-11-20 14:45:38,986 INFO 9372 [egg:core] dump config after load, 15ms
+2018-11-20 14:45:39,011 INFO 9372 [egg-watcher:application] watcher start success
+2018-11-20 14:45:39,058 INFO 9372 [egg:core] dump config after ready, 42ms
+2018-11-20 17:10:55,556 WARN 9372 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-11-20 17:10:55,579 WARN 9372 [ClusterClient:Watcher] follower closed, and try to init it again
